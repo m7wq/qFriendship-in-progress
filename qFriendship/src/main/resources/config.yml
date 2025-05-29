@@ -1,0 +1,6 @@
+database:
+  host: 185.206.149.204
+  port: 3306
+  name: s7_test # s7_test
+  username: u7_lORHcMfKdc
+  password: 48pn=+cL50L7djE9lhYwEiEO

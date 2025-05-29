@@ -1,0 +1,10 @@
+name: qFriendship
+version: 1.0
+main: dev.qdevelopment.qfriendship.Plugin
+api-version: 1.13
+author: m7wq
+commands:
+  friends:
+    aliases:
+      - f
+      - friend
